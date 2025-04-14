@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/thejatingupta7/CA-ThinkFlow)
+   git clone https://github.com/thejatingupta7/CA-ThinkFlow
    cd CA-Thinkflow
    ```
 
