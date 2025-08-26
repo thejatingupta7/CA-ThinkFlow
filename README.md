@@ -1,6 +1,6 @@
-# 💡 CA-ThinkFlow
+# CA-ThinkFlow 💡
 
-💡 CA-ThinkFlow is an AI-powered financial consulting application 🧠💰 designed to assist users with various financial queries 📈💬. 🛠️ Built using Streamlit 🖥️ and LangChain 🔗, this application leverages advanced language models 🤖📚 to provide accurate and context-aware responses to user questions related to finance 💹🔍.
+📊 CA-ThinkFlow is an AI-powered financial consulting application 🧠💰 designed to assist users with various financial queries 📈💬. 🛠️ Built using Streamlit 🖥️ and LangChain 🔗, this application leverages advanced language models 🤖📚 to provide accurate and context-aware responses to user questions related to finance 💹🔍.
 
 ---
 
