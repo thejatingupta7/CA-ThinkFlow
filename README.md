@@ -65,11 +65,11 @@ CA-ThinkFlow achieves a **Scholastic Reliability Coefficient (SRC) of 68.75%**, 
 
 ### Subject-wise Breakdown
 
-
+![Subject-wise Breakdown](Screenshot_15-3-2026_164418_.jpeg)
 
 ### Model-wise Accuracy
 
-
+![Model-wise Accuracy](Screenshot_15-3-2026_16437_.jpeg)
 
 ### Systemic Bottlenecks
 
