@@ -82,7 +82,7 @@ Systems Bottlenecks still exists in exams like Taxation (I3) and Indirect Tax La
 If you use this work in your research, please cite our paper:
 
 ```bibtex
-@misc{gupta2025cathinkflow,
+@misc{Gupta2026CAThinkflow,
   title={Retrieval-Augmented Reasoning for Chartered Accountancy},
   author={Jatin Gupta and Akhil Sharma and Saransh Singhania and Ali Imam Abidi},
   year={2025},
@@ -90,7 +90,7 @@ If you use this work in your research, please cite our paper:
 }
 ```
 ```bibtex
-@article{Gupta2025,
+@article{Gupta2025CABen,
   author    = {Gupta, Jatin and Sharma, Akhil and Singhania, Saransh and Adnan, Mohammad and Deo, Sakshi and Abidi, Ali Imam and Gupta, Keshav},
   title     = {Large Language Models Acing Chartered Accountancy},
   journal   = {SN Computer Science},
